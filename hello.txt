@@ -1,0 +1,2 @@
+﻿Hello, Git!
+forevery26 的第一行提交。
